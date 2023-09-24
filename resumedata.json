@@ -1,0 +1,96 @@
+{
+  "main": {
+    "name": "Kaushik Samadder",
+    "occupation": "High School Student / CEO at Ingency",
+    "description": "I am a 16 year old student with big dreams.Currently an entreprenuer and CEO at Ingency",
+    "image": "Kaushik.jpeg",
+    "bio": "My name is Kaushik , I'm currently learning React JS from Clever Programmer . Currently I'm working at my own Start-up==> Ingency and I also give free maths tuition to needy children",
+    "contactmessage": "Get in touch with me to hire me , to become a part of my company or anything else.",
+    "email": "kaushiksamadder2003@gmail.com",
+    "phone": "",
+    "address": {
+      "city": "Kolkata",
+      "state": "India"
+      
+    },
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/kaushik.samadder.79",
+        "className": "fa fa-facebook"
+      },
+      
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/kzark_sama/",
+        "className": "fa fa-instagram"
+      }
+      
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "Studying at Julien Day School",
+        "degree": "Pursuing Science at JDS",
+        "graduated": "Not yet Graduated",
+        "description": "N/A"
+      }
+    ],
+    "work": [
+      {
+        "company": "Ingency",
+        "title": "CEO",
+        "years": "MAY 2020 - Present",
+        "description": "Launching your startup"
+      }
+      
+    ],
+    "skills": [
+      {
+        "name": "Living Life",
+        "level": "100%"
+      },
+      {
+        "name": "Coding",
+        "level": "80%"
+      },
+      {
+        "name": "Maths",
+        "level": "90%"
+      },
+      {
+        "name": "Guitar",
+        "level": "80%"
+      },
+      {
+        "name": "Cooking",
+        "level": "100%"
+      },
+      {
+        "name": "Gamer",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Ingency",
+        "category": "A startup launched by me (Kaushik Samadder) to help the other growing business",
+        "image": "Ingency.jpg",
+        "url": "https://www.facebook.com/Indgency"
+      }
+      
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Your team is amazing and keep the good work that you people are doing",
+        "user": "Keya"
+      }
+    ]
+  }
+}
